@@ -10,8 +10,8 @@ This repo will be used to provide some information about github and tools used i
 
 ## Recommended Tools
 1. Editor tools
- - [VisualCode](https://code.visualstudio.com/)
- - [notepad++](https://notepad-plus-plus.org/)
+- [VisualCode](https://code.visualstudio.com/)
+- [notepad++](https://notepad-plus-plus.org/)
  
 2.Languages
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
