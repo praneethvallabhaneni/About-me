@@ -2,8 +2,8 @@
 
 ## Repository Links
 
-- [https://github.com/praneethvallabhaneni/about-me](https://github.com/praneethvallabhaneni/about-me)
-- [https://praneethvallabhaneni.github.io/about-me/](https://praneethvallabhaneni.github.io/about-me/)
+- Repository link: [https://github.com/praneethvallabhaneni/about-me](https://github.com/praneethvallabhaneni/about-me)
+- Published page link: [https://praneethvallabhaneni.github.io/about-me/](https://praneethvallabhaneni.github.io/about-me/)
 
 ## About
 This repo will be used to provide some information about github and tools used in web developing.
