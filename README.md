@@ -17,3 +17,8 @@ This repo will be used to provide some information about github and tools used i
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [Markdown](https://www.markdownguide.org/)
 
+## Recommended Resources
+The following are the resources I have used to learn web development.
+- [W3schools](https://www.w3schools.com/whatis/)
+- [https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)
+- [Udemy](https://www.udemy.com/courses/development/web-development/)
