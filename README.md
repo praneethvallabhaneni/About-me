@@ -22,3 +22,8 @@ The following are the resources I have used to learn web development.
 - [W3schools](https://www.w3schools.com/whatis/)
 - [https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)
 - [Udemy](https://www.udemy.com/courses/development/web-development/)
+
+## Contributors
+My name is Praneeth Vallabhaneni. I am a student in Applied Computer Science at Northwest.
+
+![](praneeth.JPG)
